@@ -1,6 +1,6 @@
 # Oi! Eu sou o Cléuvin 🖐🏻
 - 🤝🏼 Estou a procura de uma oportunidade como desenvolvedor
-- 👨🏻‍💻 Formado em Analise e Desenvolvimento de Sistemas, busco colocar em pratica minhas habilidades e conhecimento com a linguagem Java e/ou C#.
+- 👨🏻‍💻 Formado em Analise e Desenvolvimento de Sistemas, busco colocar em pratica minhas habilidades e conhecimentos com a linguagem Java e/ou C# e suas ferramentas.
 
 <div align="center">
   <a href="https://github.com/cleuvin">
