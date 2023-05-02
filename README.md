@@ -1,6 +1,6 @@
 # Oi! Eu sou o Cléuvin 🖐🏻
 - 🤝🏼 Estou a procura de uma oportunidade como desenvolvedor
-- 👨🏻‍💻 Atualmente estou terminando minha formação superior em analise e desenvolvimento de sistemas, mas também estudando C#, Java e PHP como Back-end e HTML, CSS e JS como Front-end.
+- 👨🏻‍💻 Formado em Analise e Desenvolvimento de Sistemas, busco colocar em pratica minhas habilidades e conhecimento com a linguagem Java e/ou C#.
 
 <div align="center">
   <a href="https://github.com/cleuvin">
